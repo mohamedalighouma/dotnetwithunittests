@@ -1,0 +1,15 @@
+<testsuites>
+  <testsuite name="PrimeService.Tests.dll" tests="1" skipped="0" failures="0" errors="0" time="0.0041098" timestamp="2021-09-09T16:46:41" hostname="PP0326" id="0" package="PrimeService.Tests.dll">
+    <properties />
+    <testcase classname="PrimeService.Tests.UnitTest1" name="PrimeService.Tests.UnitTest1.Test1" time="0.0041098" />
+    <system-out>
+Test Framework Informational Messages:
+[xUnit.net 00:00:00.00] xUnit.net VSTest Adapter v2.4.3+1b45f5407b (64-bit .NET 5.0.9)
+[xUnit.net 00:00:00.77]   Discovering: PrimeService.Tests
+[xUnit.net 00:00:00.82]   Discovered:  PrimeService.Tests
+[xUnit.net 00:00:00.82]   Starting:    PrimeService.Tests
+[xUnit.net 00:00:00.94]   Finished:    PrimeService.Tests
+</system-out>
+    <system-err></system-err>
+  </testsuite>
+</testsuites>

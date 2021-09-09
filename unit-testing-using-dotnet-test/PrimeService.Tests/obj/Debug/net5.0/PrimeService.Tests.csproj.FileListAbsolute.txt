@@ -101,3 +101,6 @@ C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeServ
 C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net5.0\ref\PrimeService.Tests.dll
 C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net5.0\PrimeService.Tests.pdb
 C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\net5.0\PrimeService.Tests.genruntimeconfig.cache
+C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestLogger.dll
+C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Extension.JUnit.Xml.TestAdapter.dll
+C:\Users\uid1354\Desktop\dotnet project\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\net5.0\Spekt.TestLogger.dll

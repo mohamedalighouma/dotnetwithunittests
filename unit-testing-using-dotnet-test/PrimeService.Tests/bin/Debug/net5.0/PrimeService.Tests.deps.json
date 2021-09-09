@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "PrimeService.Tests/1.0.0": {
         "dependencies": {
+          "JunitXml.TestLogger": "3.0.98",
           "Microsoft.NET.Test.Sdk": "16.9.4",
           "PrimeService": "1.0.0",
           "coverlet.collector": "3.0.2",
@@ -19,6 +20,7 @@
         }
       },
       "coverlet.collector/3.0.2": {},
+      "JunitXml.TestLogger/3.0.98": {},
       "Microsoft.CodeCoverage/16.9.4": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -1109,6 +1111,13 @@
       "sha512": "sha512-iBvPAIDaI7j/iMx/DzCGCJ3rdiOmel9VINEfaTiBv/NKIGHOP4X3hqc6Q1wgMtArEshlhXexQknP17SK4vXb1w==",
       "path": "coverlet.collector/3.0.2",
       "hashPath": "coverlet.collector.3.0.2.nupkg.sha512"
+    },
+    "JunitXml.TestLogger/3.0.98": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S+bz5mohyfiNc2ueDsyU4KZ9w3wQIcsauxf9/zc3BY0iEih7+nPO4/BrQ1x4819KUHCtgN2LzBy+ZjGDGodJeg==",
+      "path": "junitxml.testlogger/3.0.98",
+      "hashPath": "junitxml.testlogger.3.0.98.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.9.4": {
       "type": "package",

@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1n/UMgACt9szDLQX42nL475Vx8G+Rb9k18XhsNamMkXldjhCiE8RbrpG5X8a9Oo86dFv0Fs/5tJcH8jK07+SsA==",
+  "dgSpecHash": "4bywP5YWtQnni9z8Qb3g/RHi60FRnlJ4k8geQDv19PByHAYGB8BUYNg2CxOVIgDTV3hWOyNE4KZVqoqML3c2vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\uid1354\\Desktop\\dotnet project\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uid1354\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\uid1354\\.nuget\\packages\\junitxml.testlogger\\3.0.98\\junitxml.testlogger.3.0.98.nupkg.sha512",
     "C:\\Users\\uid1354\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\uid1354\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\uid1354\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
